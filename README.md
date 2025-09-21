@@ -25,7 +25,7 @@
                 <p>Price: $8</p>
             </td>
             <td>
-                <img src="pizza.jpeg" alt="Burger" width="300">
+                <img src="https://www.shutterstock.com/image-photo/thick-bison-burger-lettuce-tomato-cheddar-2620281583?irclickid=18CxcQRDnxycTIT0fV20pyz3Ukp1ip3lqVzqUE0&irgwc=1&pl=38919-1636534&utm_medium=Affiliate&utm_campaign=Eezy%2C+LLC&utm_source=38919&utm_term=direct&utm_content=1636534&dd_referrer=https%3A%2F%2Fwww.vecteezy.com%2F" alt="Burger" width="300">
             </td>
         </tr>
         <tr>
