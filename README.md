@@ -35,7 +35,7 @@
                 <p>Price: $7</p>
             </td>
             <td>
-                <img src="lasagna.jpeg" alt="lasagna" width="300">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Lasagne.jpg" alt="lasagna" width="300">
             </td>
         </tr>
         <tr>
