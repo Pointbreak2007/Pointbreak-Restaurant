@@ -25,7 +25,7 @@
                 <p>Price: $8</p>
             </td>
             <td>
-                <img src="https://pngtree.com/freepng/burger-food-png-free-download_13329458.html" alt="Burger" width="300">
+                <img src="https://en.wikipedia.org/wiki/Hamburger#/media/File:RedDot_Burger.jpg" alt="Burger" width="300">
             </td>
         </tr>
         <tr>
