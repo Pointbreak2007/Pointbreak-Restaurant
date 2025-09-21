@@ -15,7 +15,7 @@
                 <p>Price: $10</p>
             </td>
             <td>
-                <img src="burger.jpeg" alt="Pizza" width="300">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Pizza-3007395.jpg" alt="Pizza" width="300">
             </td>
         </tr>
         <tr>
