@@ -25,7 +25,7 @@
                 <p>Price: $8</p>
             </td>
             <td>
-                <img src="https://en.wikipedia.org/wiki/Hamburger#/media/File:RedDot_Burger.jpg" alt="Burger" width="300">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Burger_in_black_background.png" alt="Burger" width="300">
             </td>
         </tr>
         <tr>
