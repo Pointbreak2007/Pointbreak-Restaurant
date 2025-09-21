@@ -45,7 +45,7 @@
                 <p>Price: $8</p>
             </td>
             <td>
-                <img src= "Mac and cheese.jpg" alt="Mac and Cheese" width=300>
+                <img src= "https://upload.wikimedia.org/wikipedia/commons/4/44/Original_Mac_n_Cheese_.jpg" alt="Mac and Cheese" width=300>
             </td>
         </tr>
         <tr>
@@ -55,7 +55,7 @@
                 <p>Price: $6</p>
             </td>
             <td>
-                <img src="momos.jpg" alt="Momos" width=300>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Momo.jpg" alt="Momos" width=300>
             </td>
         </tr>
     </table>
